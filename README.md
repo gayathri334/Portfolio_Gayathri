@@ -48,5 +48,13 @@ Development Courses
 Email: gayathribai334@gmail.com
 LinkedIn: www.linkedin.com/in/gayathri-m-4694162bb
 GitHub: https://github.com/account
+
+📜 Certifications
+NPTEL Certifications
+Technical Workshops
+Development Courses
+
+⭐ Support
+If you like this project, give it a star ⭐
 ⭐ Support
 If you like this project, give it a star ⭐
